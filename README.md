@@ -4,7 +4,7 @@
 | ---            | ---        |
 | Mandy Alphafyn Imanuel Tjandra |  5025241173  |
 | Afsal Murtaza | 5025241190 |
-| IMuhammad Daffa Ramadhan | 5025241216 |
+| Muhammad Daffa Ramadhan | 5025241216 |
 
 
 ## Praktikum 1
